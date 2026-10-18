@@ -1,0 +1,3 @@
+Files kv-*.cql are copied unmodified from https://github.com/KillrVideo/killrvideo-data
+(schema-v3.cql, schema-v4.cql, schema-v5.cql, examples/schema-v4-query-examples.cql,
+examples/schema-v5-query-examples.cql), licensed under the Apache License 2.0.
